@@ -1,2 +1,5 @@
 isabelle	costureira
 walter	mecânico
+Nome:sara	mecânico
+Nome:Carlos	costureira
+Nome:walter	Profissão:mecânico
